@@ -1,0 +1,134 @@
+/* for header >*/
+header{
+    padding: 30px 0;
+    border-bottom: 1px solid black;
+    margin-bottom: 80px;
+}
+.nav{
+    text-align: center;
+}
+.nav-li{
+    display: inline-block;
+}
+.nav-li{
+    margin: 0 33px;
+}
+.nav-a{
+    font-family:'poppins-500', sans-serif;
+    line-height: 27px;
+    font-size: 18px;
+}
+/* for header <*/
+/* for home page section >*/
+.home-main{
+    text-align: center;
+}
+.best-selling-title{
+    text-align: center;
+    margin-bottom: 60px;
+    font-size: 24px;
+    line-height: 28px;
+    
+}
+.card-main-wrapper{
+    display: inline-block;
+    box-sizing: border-box;
+    max-width:333px;
+    width:100%;
+    margin: 0 50px;
+}
+.card-top-wrapper{
+    border: 1px solid black;
+    border-radius: 2px;
+    padding:10px 15px 15px 15px;
+}
+.card-top-wrapper img{
+    width: 100%;
+}
+.product-content{
+    margin-left: 10px;
+    text-align: left;
+}
+.product-content h3{
+    margin: 25px 0 15px 0;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'poppins-700', sans-serif;
+}
+.product-content p{
+    font-size: 14px;
+    line-height: 21px;
+    font-family:'poppins-400', sans-serif;
+}
+.card-bottom-wrapper{
+    text-align: right;
+    margin-top: 23px;
+}
+.card-bottom-wrapper button{
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 12px;
+    line-height: 18px;
+    width: 118px;
+    height: 30px;
+}
+.card-bottom-wrapper button:hover{
+    background-color: rgb(75, 89, 99);
+    color:white;
+}
+.describiton{
+    margin:62px 0 118px 25px;
+    text-align: left;
+}
+.describtion-ul{
+    list-style-type:disc;
+    font-size: 14px;
+    line-height: 19px;
+    font-family:'open-sans-400', sans-serif;
+}
+/* for home page section <*/
+/* for the title of about_us and contact_us >*/
+.title-contact-about_us{
+    text-align: center;
+    margin-bottom: 118px;
+    font-size: 40px;
+    line-height: 54px;
+    color: #7D0000;
+    font-family: 'open-sans-600', sans-serif;
+}
+/* for the title of about_us and contact_us  <*/
+/* for about_us page >*/
+.about_us-article{
+    margin-left: 175px;
+}
+.contact-p{
+    width: 775px;
+    font-size: 25px;
+    line-height: 41px;
+    font-family: 'open-sans-600', sans-serif;
+    margin-bottom: 60px;
+    text-transform: capitalize;
+}
+.address.about_us{
+    font-family: 25px;
+    line-height: 34px;
+    font-family:'open-sans-400', sans-serif;
+    text-transform: capitalize;
+    font-style: italic;
+}
+/* for about_us page <*/
+/* for contact page >*/
+.contact-address{
+    margin-left: 206px;
+}
+.contact-address li{
+    font-size: 25px;
+    line-height: 34px;
+    font-family:'open-sans-600', sans-serif;
+    margin: 16px 0;
+}
+.email-address{
+    font-style: italic;
+    text-decoration-line: underline;
+}
+/* for contact page <*/
